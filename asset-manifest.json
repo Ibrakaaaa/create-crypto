@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ibrakaaaa/create-crypto/static/css/main.87c85226.css",
+    "main.js": "/Ibrakaaaa/create-crypto/static/js/main.00d8d44f.js",
+    "index.html": "/Ibrakaaaa/create-crypto/index.html",
+    "main.87c85226.css.map": "/Ibrakaaaa/create-crypto/static/css/main.87c85226.css.map",
+    "main.00d8d44f.js.map": "/Ibrakaaaa/create-crypto/static/js/main.00d8d44f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87c85226.css",
+    "static/js/main.00d8d44f.js"
+  ]
+}
